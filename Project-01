@@ -1,4 +1,4 @@
-Finding the best business category and location for a startups in Colombo
+Finding the best business category and location for startups in Colombo
 --------------------------------------------------------------------------
 In Sri Lanka with the current trend for startups, most people are willing to own their own business. 
 But only some of them are succeeding. One of the reason for faliure is the competition in business categories 
@@ -10,3 +10,8 @@ In this project I will address following issues,
 01. What is the best type of business for startups in Colombo?
 02. How the business categories are located in Colombo?
 03. What are the locations that lack of certain business type?
+
+I will scrape location data from foursquare for this project. Namely, location data of cafetarias, restuarants, shopping 
+centers, etc. in Colombo. Also in order to determine access for locations I will add available transportation faciliteis 
+in Colombo for the data set. Using those data I will try to asnwer above questions.
+
